@@ -14,9 +14,12 @@
         - Save in a folder on the desktop
 2. Process each photo
     - Need two copies
-        - unaltered TIFF, saved as TIFF
-        - JPG whose image size has been adjust to be 200 DPI
-    - Upload jpg to the  github
+        - unaltered TIFF, saved as TIFF, with color stick
+        - Save as JPG 
+        - Crop JPG so just photo is showing
+        - adjust JPG so that it is at 300 DPI   
 3. Describe each photo
     - metadata sheet here: 
-    - 
+    - upload 
+4. Make the photos available
+    - Upload jpg files to the cdil-coll repository images directory
