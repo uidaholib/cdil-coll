@@ -19,7 +19,7 @@
         - Crop JPG so just photo is showing
         - adjust JPG so that it is at 300 DPI   
 3. Describe each photo
-    - metadata sheet here: 
-    - upload 
+    - metadata sheet here: (https://docs.google.com/spreadsheets/d/1K6Ubivo6DlmWapNQlWQxUxwyTXFzvGO3yH9PZFSmc9E/edit?usp=sharing)[https://docs.google.com/spreadsheets/d/1K6Ubivo6DlmWapNQlWQxUxwyTXFzvGO3yH9PZFSmc9E/edit?usp=sharing]
+    - upload to images folder here
 4. Make the photos available
     - Upload jpg files to the cdil-coll repository images directory
