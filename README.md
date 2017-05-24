@@ -10,7 +10,8 @@
     - Scan each photo 
         - TIFF
         - 6000 pixels on the long edge
-        - Filename = your name + number, so for me "Devin01"
+        - Identifier and Filename have been input for you, so make sure you title your files with those filenames
+            - "cdil-bs" + number
         - Save in a folder on the desktop
 2. Process each photo
     - Need three copies
